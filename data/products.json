@@ -1,0 +1,9 @@
+[
+{ "id": 1, "name": "Poké Ball", "price": 1800, "image": "./assets/poke-ball.jpeg", "stock": 30 },
+{ "id": 2, "name": "Poción", "price": 2200, "image": "./assets/pocion.jpeg", "stock": 20 },
+{ "id": 3, "name": "Super Ball", "price": 4200, "image": "./assets/super-ball.jpeg", "stock": 15 },
+{ "id": 4, "name": "Antídoto", "price": 1500, "image": "./assets/antidoto.jpeg", "stock": 18 },
+{ "id": 5, "name": "Revivir", "price": 8900, "image": "./assets/revivir.png", "stock": 8 },
+{ "id": 6, "name": "Ultra Ball", "price": 9800, "image": "./assets/ultraball.jpeg", "stock": 6 }
+]
+ 

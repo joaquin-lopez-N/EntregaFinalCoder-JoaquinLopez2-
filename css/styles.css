@@ -1,0 +1,5 @@
+:root{ --gap: 12px; }
+body{ background:#f8f9fa; }
+.card-product img{ object-fit: cover; height: 150px; }
+.qty-input{ width: 72px; }
+.table-cart td, .table-cart th{ vertical-align: middle; }
